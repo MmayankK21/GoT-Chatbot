@@ -1,0 +1,10 @@
+streamlit
+langchain-community
+langchain-ollama
+langchain-core
+chromadb
+rouge-score
+bert-score
+pandas
+numpy
+wikipedia-api

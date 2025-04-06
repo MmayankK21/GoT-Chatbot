@@ -4,7 +4,7 @@ Game of Thrones Trivia Q&A Chatbot
 
 An interactive **Game of Thrones** trivia chatbot that uses a Large Language Model (LLM) from **Ollama**, **LangChain** for RAG (Retrieval-Augmented Generation), and **ChromaDB** for vector search. It fetches content from Wikipedia to create a knowledge base and provides accurate, context-aware answers to user queries with an intuitive **Streamlit UI**.
 
-![image](https://github.com/user-attachments/assets/2e7cc0be-ca18-42c9-ab86-5bef9fa7bd14)
+![image](https://github.com/user-attachments/assets/b321c9e8-d9d5-45e4-9f20-0e67037eb2be)
 
 ---
 
